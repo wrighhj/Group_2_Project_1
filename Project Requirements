@@ -22,15 +22,15 @@ Describe the questions you and your group found interesting, and what motivated 
   #How does the COVID crisis timeline and other national events impact the approval rating of 1) the President and 2) the general congretional ballot?
 
 Summarize where and how you found the data you used to answer these questions
-  New York Times political approval polls
-  538 aggregated political approval polls
-  CDC COVID cases and dealths
+  #New York Times COVID cases and dealths
+  #538 aggregated political approval polls
+  #Johns Hopkins COVID cases and dealths
 
 Describe the data exploration and cleanup process (accompanied by your Jupyter Notebook)
 
 
 Describe the analysis process (accompanied by your Jupyter Notebook)
-  Utilizing New York Times political approval polls, 538 aggrigated Presidential approval polls, and COVID cases and related dealths data, compare the trends in congressional approval rates, Presidential approval ratings and COVID-related deaths.
+  #Utilizing New York Times political approval polls, 538 aggrigated Presidential approval polls, and COVID cases and related dealths data, compare the trends in congressional approval rates, Presidential approval ratings and COVID-related deaths.
 
 Summarize your conclusions. This should include a numerical summary (i.e., what data did your analysis yield), as well as visualizations of that summary (plots of the final analysis data)
 
@@ -39,3 +39,9 @@ Discuss the implications of your findings. This is where you get to have an open
 
 
 Tell a good story! Storytelling through data analysis is no different than in literature. Find your narrative and use your analysis and visualization skills to highlight conflict and resolution in your data.
+ # General thesis-overview of full Trump approval rating
+ # Hypothesis
+ # Analysis Plan & Method
+ # Analysis  Results -  Perdictive significance of the future 
+ # Summary 
+ # Discuss Implication of findings - Q&A
